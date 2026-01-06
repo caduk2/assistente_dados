@@ -1,0 +1,23 @@
+# Ambiente virtual
+venv/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos de áudio gerados
+audio/*.wav
+audio/*.mp3
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Cache do Whisper / Torch
+.cache/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
