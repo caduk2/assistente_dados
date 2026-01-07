@@ -52,19 +52,21 @@ Criar um assistente educacional que:
 
 ## 🏗️ Estrutura do Projeto
 
+```text
 assistente_dados/
 ├── audio/
-│ ├── input.wav
-│ └── output.mp3
+│   ├── input.wav
+│   └── output.mp3
 ├── src/
-│ ├── assistant.py
-│ ├── audio_recorder.py
-│ ├── speech_to_text.py
-│ ├── gemini_client.py
-│ └── tts.py
+│   ├── assistant.py
+│   ├── audio_recorder.py
+│   ├── speech_to_text.py
+│   ├── gemini_client.py
+│   └── tts.py
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
