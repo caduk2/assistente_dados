@@ -105,3 +105,8 @@ assistente_dados/
    python main.py
 
 ---
+
+PS: 
+Lembre de criar as pastas e arquivos que não subiram devido a boas práticas.
+Que suas previsões estejam sempre a seu favor e seus modelos tragam só bons insights. 
+Boa codagem !
