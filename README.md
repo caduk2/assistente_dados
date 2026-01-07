@@ -110,3 +110,9 @@ PS:
 Lembre de criar as pastas e arquivos que não subiram devido a boas práticas.
 Que suas previsões estejam sempre a seu favor e seus modelos tragam só bons insights. 
 Boa codagem !
+
+🚀 Próximos Passos:
+Histórico de conversa
+Modo resposta curta / longa
+Interface gráfica (Streamlit)
+Integração com datasets reais
